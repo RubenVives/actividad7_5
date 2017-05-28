@@ -19,6 +19,7 @@ public class HolaMundo {
         System.out.print("Hola");
         System.out.print("Como estas");
         System.out.print("AMARILLO");
+        System.out.print("BLANCO");
         
     }
     
